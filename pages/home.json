@@ -1,0 +1,14 @@
+{
+    "hero": {
+        "slides": [
+            
+                {"img_background": "/img/BG2.jpg"},
+                {"img_background": "/img/BG5.jpg"},
+                {"img_background": "/img/BG4.jpg"}
+                
+               
+            
+            
+        ]
+    }
+}
